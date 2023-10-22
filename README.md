@@ -18,8 +18,8 @@ This is a Python-based terminal application for converting numbers between diffe
 git clone https://github.com/Devkesarwani/Number-System-Converter
 ```
 
-##Run the Python script.
-##python number_converter.py
+
+- **Run the Python script**: python number_converter.py
 
 
 
